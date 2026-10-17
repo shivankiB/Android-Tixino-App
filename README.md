@@ -6,10 +6,15 @@ Tixino is a centralized campus event management application designed to bridge t
 🚀 Key Features
 
 • Event Timeline: Browse past, ongoing, and upcoming campus events through a unified dashboard.
+
 • Smart Notifications: Receive real-time push notifications so you never miss an upcoming event.
+
 • Personalized Planner: Create a custom "To-Attend" list to organize your campus schedule.
+
 • In-App Registration: Register for events seamlessly directly through the application.
+
 • Committee Directory: Explore detailed profiles of all college committees and learn about their core domains and work.
+
 • Organizer Dashboard: Empower committee heads to easily create, edit, and publish new events.
 
 📸 Glimpses of the App
