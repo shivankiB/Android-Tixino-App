@@ -41,8 +41,8 @@ Tixino is a centralized campus event management application designed to bridge t
 
   <!-- Row 3: Management & Engagement -->
   <tr>
-    <td><b>Add New Campus Event</b></td>
     <td><b>Push Notifications</b></td>
+    <td><b>Add New Campus Event</b></td>
     <td><b>User Profile Control</b></td>
   </tr>
   <tr>
